@@ -19,3 +19,12 @@ Assurez-vous d'avoir installé sur votre machine :
    ```bash
    git clone https://github.com/thomas-corteval/ReactProjectIUT2eAnnee.git
    cd ReactProjectIUT2eAnnee
+2. **Installer les dépendances** :
+   ```bash
+   cd showapi-web
+   npm install
+3. **Démarrer l'application**
+   ```bash
+   npm run dev
+Le projet sera accessible sur http://localhost:5173
+
